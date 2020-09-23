@@ -46,3 +46,9 @@ This is one place where conflicts may occur (hint - this is when rebases are use
 2. Undergo the 12-week Navy Seals training program
 3. Prove to the team that you have implemented time travel from first principles
 
+## Requirements
+1. Pytorch: We like this network
+2. cmake: cmake
+3. wandb: Weights and Biases
+4. Numpy: Numbers of Py
+5. Math: The math boi

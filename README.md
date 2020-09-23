@@ -1,5 +1,10 @@
 # RL Documentation
 
+## How it works
+Since the start of the project season reinforcement learning team has gone on a journey, through both theory and practical applications.
+Our load and savior, David Silver has been kind enough to deliver the basics to RL in 'easily digestable' lecture format. It has not been 
+without its struggles. I would reccomend learning the basics well (especially terminology) before continuing or else you might feel overwhelmed. 
+
 ## Project Timeline
 1. Get DDQN to work
 2. Implement A2C

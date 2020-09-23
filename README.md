@@ -32,5 +32,11 @@ This is one place where conflicts may occur (hint - this is when rebases are use
 
 Requirements:
 -Pytorch: We like this network
+
 -cmake: cmake
 
+-wandb: Weights and Biases
+
+-Numpy: Numbers of Py
+
+-Math: The math boi
